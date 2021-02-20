@@ -1,0 +1,26 @@
+body{
+  background-color: green;
+
+}
+h1{
+  text-align: center;
+  font-size: 6rem;
+}
+p{
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
+.d1{
+  position: absolute;
+  padding-left: 300px;
+}
+.d2{
+  position: absolute;
+  padding-left:950px;
+}
+
+.f{
+
+  text-align: center;
+  padding-top: 450px;
+}
